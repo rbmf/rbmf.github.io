@@ -1,24 +1,6 @@
 
  <html lang="en">
  
- <head>
-
- <meta charset="utf-8">
-
- <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-
- <link rel="stylesheet" href="/library/css/bootstrap.min.css">
-
- <link rel="stylesheet" href="/library/css/bootstrap-grid.min.css">
-
- <link rel="stylesheet" href="/library/css/bootstrap-reboot.min.css">
- 
- <link rel="stylesheet" href="/library/css/typography.css">
- 
- <script src="/library/js/jquery-3.5.0.js" ></script>
-
- <script src="/library/js/bootstrap.min.js"></script>
-
  </head>
  
  <body class="red">

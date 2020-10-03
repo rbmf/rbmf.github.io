@@ -1,0 +1,26 @@
+
+@font-face {
+    font-family: 'bull';
+    src: url('/library/fonts/bulltextcyrillic-bold.eot');
+    src: url('/library/fonts/bulltextcyrillic-bold.eot?#iefix') format('embedded-opentype'),
+         url('/library/fonts/bulltextcyrillic-bold.woff2') format('woff2'),
+         url('/library/fonts/bulltextcyrillic-bold.woff') format('woff'),
+         url('/library/fonts/bulltextcyrillic-bold.ttf') format('truetype'),
+         url('/library/fonts/bulltextcyrillic-bold.svg#bullcyr-bold') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
+html, body{height:100%;}
+
+h2{font-family: 'bull';}
+
+.red{
+	background-color: #dd2147;
+	color: #ffffff;
+}
+	
+.blue{
+	background-color: #2c3293;
+	color: #ffffff;
+}
